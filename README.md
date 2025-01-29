@@ -19,10 +19,10 @@ This Python script converts markdown meeting notes into a well-formatted Google 
 4. The generated document link will be printed in the output.
 
 ## Dependencies
-google-auth
-google-auth-oauthlib
-google-auth-httplib2
-google-api-python-client
+   - google-auth
+   - google-auth-oauthlib
+   - google-auth-httplib2
+   - google-api-python-client
 
 ## How to Run in Google Colab
 1. Open Google Colab: Go to Google Colab.
