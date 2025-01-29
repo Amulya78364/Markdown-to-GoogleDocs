@@ -30,12 +30,12 @@ Open Google Colab: Go to Google Colab.
 **Upload the Notebook:**
 1. Click on **File > Upload Notebook.**
 2. Upload the **convert_markdown_to_docs.ipynb** file from the repository.
-**3. Install Dependencies:** Run the following command in the first code cell to install the required libraries:
+3. **Install Dependencies:** Run the following command in the first code cell to install the required libraries:
 !pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
-**4. Authenticate with Google Docs API:**
+4. **Authenticate with Google Docs API:**
 -The script includes a step to authenticate with your Google account.
 -Once you run the script, a link will be generated for authentication. Click the link, sign in to your Google account, and paste the authorization code back into the Colab notebook.
-**5. Run the Script:**
+5. **Run the Script:**
 -The script will automatically:
     Parse the provided Markdown notes.
     Create a new Google Doc.
