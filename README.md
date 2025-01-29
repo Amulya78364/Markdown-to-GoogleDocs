@@ -25,11 +25,10 @@ google-auth-httplib2
 google-api-python-client
 
 ## How to Run in Google Colab
-Open Google Colab: Go to Google Colab.
-
-**Upload the Notebook:**
-1. Click on **File > Upload Notebook.**
-2. Upload the **convert_markdown_to_docs.ipynb** file from the repository.
+1. Open Google Colab: Go to Google Colab.
+2. **Upload the Notebook:**
+   Click on **File > Upload Notebook.**
+   Upload the **convert_markdown_to_docs.ipynb** file from the repository.
 3. **Install Dependencies:** Run the following command in the first code cell to install the required libraries:
 !pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
 4. **Authenticate with Google Docs API:**
