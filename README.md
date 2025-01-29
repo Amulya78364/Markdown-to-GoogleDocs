@@ -50,7 +50,7 @@ After running the script, you'll receive a link similar to the one below:
 ```bash
 Document created successfully: https://docs.google.com/document/d/<DOCUMENT_ID>/edit
 ```
-Click the link to view your formatted Google Doc.
+Click the link to view the formatted Google Doc.
 
 ## Notes
    - Ensure you have a valid Google account for API authentication.
