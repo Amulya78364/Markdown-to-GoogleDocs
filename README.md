@@ -39,4 +39,10 @@ This Python script converts markdown meeting notes into a well-formatted Google 
      - Parse the provided Markdown notes.
      - Create a new Google Doc.
      - Format the document with the specified styles.
+6. Access the Google Doc:
+   - Once the script completes, a link to the generated Google Doc will be printed in the Colab output.
 
+## Output Example
+After running the script, you'll receive a link similar to the one below:
+Document created successfully: https://docs.google.com/document/d/<DOCUMENT_ID>/edit
+Click the link to view your formatted Google Doc.
